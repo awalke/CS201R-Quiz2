@@ -1,0 +1,19 @@
+body {
+	font-family: Arial;
+}
+
+input {
+	border-radius: 5px;
+	border: 1px solid grey;
+}
+
+#add {
+	border: none;
+}
+
+button {
+	background-color: #999999;
+	border: none;
+	border-radius: 5px;
+	
+}
